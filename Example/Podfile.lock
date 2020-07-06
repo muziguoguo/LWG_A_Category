@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - LWG_A_Category (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - LWG_A_Category (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  LWG_A_Category:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  LWG_A_Category: ad89fa0786b8366b4b806df4ce57d99d4cd9584f
+
+PODFILE CHECKSUM: 564eb2be99248754f6630b43d580359567ec959c
+
+COCOAPODS: 1.8.4

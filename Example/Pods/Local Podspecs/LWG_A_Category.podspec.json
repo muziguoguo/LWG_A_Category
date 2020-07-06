@@ -1,0 +1,22 @@
+{
+  "name": "LWG_A_Category",
+  "version": "0.1.0",
+  "summary": "A short description of LWG_A_Category.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/17710114190@163.com/LWG_A_Category",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "17710114190@163.com": "liweiguo1215@163.com"
+  },
+  "source": {
+    "git": "https://github.com/17710114190@163.com/LWG_A_Category.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LWG_A_Category/Classes/**/*"
+}

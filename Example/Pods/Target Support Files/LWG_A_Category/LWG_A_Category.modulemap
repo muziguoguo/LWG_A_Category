@@ -1,0 +1,6 @@
+framework module LWG_A_Category {
+  umbrella header "LWG_A_Category-umbrella.h"
+
+  export *
+  module * { export * }
+}
